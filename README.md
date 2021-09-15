@@ -15,7 +15,6 @@ Click on the icons to visit my Linkedln, Xing or Portfolio.
   <img src="https://img.icons8.com/plasticine/56/000000/resume-website.png"/>
 </a>
 </p>
-<br/>
 
 ### **whoami?**
 
@@ -38,5 +37,5 @@ Click on the icons to visit my Linkedln, Xing or Portfolio.
 
  **I hope you love gifs and memes** ❤️
  <br/>
- 
+
 ![Alt Text](https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif?cid=ecf05e47xmxtxoto1asc8h1uhrky7jb8sdgbuhxbfvzp1f90&rid=giphy.gif&ct=g)
