@@ -1,5 +1,5 @@
 ## **Hi 👋 I am Brisilda, Welcome to my Github Page!**
-I am currently educating myself on becoming a Developer, I hope you have a nice tour on my account 😎
+I have recently graduated a FullStack Web Dev Bootcamp (MERN), I hope you have a nice tour on my account 😎
 
 <br/>
 <p align="center">
@@ -8,10 +8,10 @@ Click on the icons to visit my Linkedln, Xing or Portfolio.
 <a href="https://www.linkedin.com/in/brisilda-bushi/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a> 
-<a href="https://www.linkedin.com/in/brisilda-bushi/">
+<a href="https://www.xing.com/profile/Brisilda_Bushi/cv">
   <img src="https://img.icons8.com/color/48/000000/xing.png"/>
 </a> 
-<a href="https://github.com/Brisilda-Bushi" >
+<a href="https://www.brisilda-bushi.me/" >
   <img src="https://img.icons8.com/plasticine/56/000000/resume-website.png"/>
 </a>
 </p>
@@ -35,7 +35,7 @@ Click on the icons to visit my Linkedln, Xing or Portfolio.
 
 <br/>
 
- **I hope you love gifs and memes** ❤️
+ **If you love gifs and memes then we can definitely share some** ❤️
  <br/>
 
 ![Alt Text](https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif?cid=ecf05e47xmxtxoto1asc8h1uhrky7jb8sdgbuhxbfvzp1f90&rid=giphy.gif&ct=g)
