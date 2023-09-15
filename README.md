@@ -11,7 +11,7 @@ Click on the icons to visit my Linkedln, Xing or Portfolio.
 <a href="https://www.xing.com/profile/Brisilda_Bushi/cv">
   <img src="https://img.icons8.com/color/48/000000/xing.png"/>
 </a> 
-<a href="https://www.brisilda-bushi.me/" >
+<a href="https://brisildabushi.com/" >
   <img src="https://img.icons8.com/plasticine/56/000000/resume-website.png"/>
 </a>
 </p>
