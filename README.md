@@ -1,5 +1,5 @@
 ## **Hi 👋 I am Brisilda, Welcome to my Github Page!**
-I have recently graduated a FullStack Web Dev Bootcamp (MERN), I hope you have a nice tour on my account 😎
+I am a Frontend developer with a few years of experience, I hope you have a nice tour on my account 😎
 
 <br/>
 <p align="center">
