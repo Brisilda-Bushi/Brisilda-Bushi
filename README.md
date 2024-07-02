@@ -30,8 +30,6 @@ Click on the icons to visit my Linkedln, Xing or Portfolio.
 <br/>
 ♾️ I love learning new things, making projects and socializing.
 <br/>
-📧 You can also reach me in this email address: **b.brisilda1552@hotmail.com**
-<br/>
 
 <br/>
 
